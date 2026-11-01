@@ -2,6 +2,8 @@
 
 Recolor low poly models that use a color atlas, the small texture made of flat color cells. Click a part of the model, pick a new color and see the result live, without leaving Unity.
 
+![Recoloring a model with Viol3's Colorizer](Documentation~/colorizer.gif)
+
 > **Early development:** This package is at an early stage (v0.0.1), so you may run into bugs or rough edges. If something breaks, behaves unexpectedly or a feature is missing, please [open an issue](https://github.com/viol3/colorizer/issues). Your Unity version and steps to reproduce help a lot. Feedback and suggestions are very welcome.
 
 ## Features
