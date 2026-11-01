@@ -1,0 +1,29 @@
+{
+  "name": "com.viol3.colorizer",
+  "version": "0.0.1",
+  "displayName": "Viol3's Colorizer",
+  "description": "Recolor low poly models that use color atlas textures directly in Unity. Automatic region detection, click on the model to pick a region, live preview, palettes, random variants, and saving as a new texture and material or over the original.",
+  "unity": "2021.3",
+  "license": "MIT",
+  "keywords": [
+    "color",
+    "atlas",
+    "palette",
+    "recolor",
+    "texture",
+    "low poly",
+    "editor",
+    "tool"
+  ],
+  "author": {
+    "name": "viol3",
+    "url": "https://github.com/viol3"
+  },
+  "documentationUrl": "https://github.com/viol3/colorizer#readme",
+  "changelogUrl": "https://github.com/viol3/colorizer/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/viol3/colorizer/blob/main/LICENSE.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/viol3/colorizer.git"
+  }
+}
